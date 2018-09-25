@@ -2074,10 +2074,10 @@ padding: 0em 0 2.7em 0 ;
 footer {
 color: white;
 }
-@media screen and (min-width: 1281px) and (max-width: 1922px) {
+@media screen and (min-width: 1367px) and (max-width: 1922px) {
 footer {
 color: white;
-padding-top: 360px;
+padding-top: 300px;
 }
 }
 @media screen and (max-width: 1280px) {
