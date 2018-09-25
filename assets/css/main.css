@@ -1877,11 +1877,11 @@ background-repeat: no-repeat;
 background-size: 24px;
 }
 #header nav ul li a[href="#menu"]:before {
-background-image: url("https://previews.dropbox.com/p/thumb/AANKMpjrVfyUDki-nFyBy5NjcQI72Aq9qEk1HENUrWOHvoFo8gU32MpTtmVdJvCRE4RwTaKMee8SRm5BGahCDqqLQ0NZIuH_anh6P-mUPyFdTV-LawWo1lhVKnPaMGt6klD4k-lCFtazHzem7bgdQXAjBtBxstasvRKcOQxD4ipOm0inFT23dXK4dYyQ5dMwLKMkh6WxTfc8AwWfS-3OPR8VQAryuZ1uS6QNCVgFIi9htQ/p.png?size=2048x1536&size_mode=3");
+background-image: url("https://github.com/Lankiewicz/lankiewicz.site/blob/master/images/icons8-menu-24.png?raw=true");
 opacity: 0;
 }
 #header nav ul li a[href="#menu"]:after {
-background-image: url("https://previews.dropbox.com/p/thumb/AANKMpjrVfyUDki-nFyBy5NjcQI72Aq9qEk1HENUrWOHvoFo8gU32MpTtmVdJvCRE4RwTaKMee8SRm5BGahCDqqLQ0NZIuH_anh6P-mUPyFdTV-LawWo1lhVKnPaMGt6klD4k-lCFtazHzem7bgdQXAjBtBxstasvRKcOQxD4ipOm0inFT23dXK4dYyQ5dMwLKMkh6WxTfc8AwWfS-3OPR8VQAryuZ1uS6QNCVgFIi9htQ/p.png?size=2048x1536&size_mode=3");
+background-image: url("https://github.com/Lankiewicz/lankiewicz.site/blob/master/images/icons8-menu-24.png?raw=true");
 opacity: 1;
 }
 #header nav ul li a[href="#menu"]:hover:before {

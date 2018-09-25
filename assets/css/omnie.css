@@ -15,11 +15,11 @@ font-weight: 900;
 letter-spacing: 0.35em;
 }
 #header nav ul li a[href="#menu"]:before {
-background-image: url("https://previews.dropbox.com/p/thumb/AAO-D-6bLMVMr8YJXmA5fo-_IS3vY4D9rRkgiLzg3GvhmXY3LN4YQ-tAA7EnzUCKvFEzwVH7AfMQUM2wS1Z5yL1IBC6l6DTnOCtpnok7cQpb9Q-NcRpJi_qLGNiiPSiK_ItrFWETYUuUWCp31VE3t9iXMQk2ix6EOhiY4L2lUPtI9CSUCFFq0ivcvivI0k0_5pzr373J8t7wnCD5Zld-4rthuIcW7sUXy_gqvT5hwhRGZw/p.png?size=2048x1536&size_mode=3");
+background-image: url("https://github.com/Lankiewicz/lankiewicz.site/blob/master/images/icons8-menu-24%20(1).png?raw=true");
 opacity: 0;
 }
 #header nav ul li a[href="#menu"]:after {
-background-image: url("https://previews.dropbox.com/p/thumb/AAO-D-6bLMVMr8YJXmA5fo-_IS3vY4D9rRkgiLzg3GvhmXY3LN4YQ-tAA7EnzUCKvFEzwVH7AfMQUM2wS1Z5yL1IBC6l6DTnOCtpnok7cQpb9Q-NcRpJi_qLGNiiPSiK_ItrFWETYUuUWCp31VE3t9iXMQk2ix6EOhiY4L2lUPtI9CSUCFFq0ivcvivI0k0_5pzr373J8t7wnCD5Zld-4rthuIcW7sUXy_gqvT5hwhRGZw/p.png?size=2048x1536&size_mode=3");
+background-image: url("https://github.com/Lankiewicz/lankiewicz.site/blob/master/images/icons8-menu-24%20(1).png?raw=true");
 opacity: 1;
 }
 #about {
@@ -52,7 +52,7 @@ font-size: 19px;
 line-height: 32px;
 letter-spacing: 0.3px;
 }
-@media screen and (min-width: 1281px) and (max-width: 1922px) {
+@media screen and (min-width: 1367px) and (max-width: 1922px) {
 #photo {
 margin-left: 10em;
 }
